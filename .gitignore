@@ -1,0 +1,10 @@
+*.iml
+npm-debug.log
+/.idea
+/node_modules
+/dist
+/task
+*.DS_Store
+package-lock.json
+webpack.config.js
+/config/Config.js
