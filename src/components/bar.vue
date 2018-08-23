@@ -3,7 +3,7 @@
   <div class="content-wrapper">
     <!-- Content Header -->
     <section class="content-header">
-        <h1>欢迎进入数据质量中心</h1>
+        <h1>bar</h1>
     </section>
 
   </div>

@@ -4,6 +4,8 @@ import Vue from 'vue';
 import App from './App'
 import router from './router'
 import './plugins/element.js'
+import Icon from 'vue-svg-icon/Icon.vue';
+Vue.component('icon', Icon);
 
 Vue.config.productionTip = false
 
